@@ -1,7 +1,6 @@
-var artist = "Dua Lipa";
-playlist[artist] = "New Rules";
 
-var playlist = {[artist]: track};
+
+var playlist = {"Dua Lipa": "New Rules"};
 
 
 
