@@ -1,12 +1,10 @@
 
-
-var playlist = {"Dua Lipa": "New Rules"};
-
+var playlist = {Dua Lipa: "New Rules"};
 
 
 function updatePlaylist(playlist, name, song){
-      playlist.newArtist = name;
-      playlist.secondTrack = song;
+      playlist.name = song;
+      
   return playlist;
 }
 
