@@ -1,9 +1,8 @@
-
+var artist = "Dua Lipa";
+playlist[artist] = "New Rules";
 
 var playlist = {[artist]: track};
 
-var artist = "Dua Lipa";
-playlist[artist] = "New Rules";
 
 
 function updatePlaylist(playlist, name, song){
